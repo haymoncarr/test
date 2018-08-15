@@ -8,4 +8,5 @@ int main(int argc, const char *argv[])
   printf("Hello Street!\n");
   
   printf("I'm going to add this line so I can use Git pull to download it to my computer!\n");
+  printf("$$H\n");
 }
